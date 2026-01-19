@@ -1,0 +1,33 @@
+.todotasks {
+    display: flex;
+    align-items: center;
+    width: 360px;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    height: 35px;
+    padding: 2px 5px 2px 5px;
+    margin-top: 8px;
+}
+
+.checkbox{
+    display: flex;
+    align-items: center;
+}
+
+.checkbox .icon{
+    margin-right: 5px;
+    font-size: 15px;
+}
+
+.todotasks div span{
+    margin: 0px 5px 0px 4px;
+}
+
+.todotask div .icon{
+    cursor: pointer;
+}
+
+.lineThrough{
+    text-decoration: line-through;
+}
