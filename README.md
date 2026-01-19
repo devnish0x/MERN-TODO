@@ -61,11 +61,12 @@ Frontend runs on:
 ```
 http://localhost:5173
 ```
+---
 ## Author
 Nishan — [GitHub](https://github.com/devnish0x)
-
+---
 ## License
 This project is for learning purposes and free to use.
-
+---
 ## Acknowledgements
 This project was made following a YouTube tutorial for learning purposes. Thanks to the creator for the guidance!
